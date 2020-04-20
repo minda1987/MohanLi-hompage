@@ -1,7 +1,7 @@
 # Welcome to Mohan Li's home page
 
 Mohan Li, Ph.D., Associate Professor of "Hundred Talents Program" in Guangzhou University. 
-She received her bachelor, master and doctor degrees from Harbin Institute of Technology. The main research interests are data management, data quality, and data poisoning attack, and has published more than 20 papers.
+She received her bachelor, master and doctor degrees from Harbin Institute of Technology.
 
 **Email:** limohan@gzhu.edu.cn
 
@@ -18,7 +18,7 @@ She received her bachelor, master and doctor degrees from Harbin Institute of Te
 ## Selected publications:
 1. Li Mohan, Sun Yanbin, Lu Hui, Maharjan Sabita, Tian Zhihong. Deep Reinforcement Learning for Partially Observable Data Poisoning Attack in Crowdsensing Systems. IEEE Internet of Things Journal, 2019, doi: 10.1109/JIOT.2019.2962914
 2. Li Mohan, Sun Yanbin, Shen Su, Zhihong Tian, Yuhang Wang, Xianzhi Wang. DPIF: A Framework for Distinguishing Unintentional Quality Problems from Potential Shilling Attacks. CMC-COMPUTERS MATERIALS & CONTINUA, 2019, 59(1): 331-344.
-3. Peng Mingrui, Li Mohan, Guan Quanlong. Random Shilling Attacks against Latent Factor Model for Recommender System: An Experimental Study. The 5th International Conference on Artificial Intelligence and Security (ICAIS), 2020（已录用待发表）
+3. Peng Mingrui, Li Mohan, Guan Quanlong. Random Shilling Attacks against Latent Factor Model for Recommender System: An Experimental Study. The 5th International Conference on Artificial Intelligence and Security (ICAIS), 2020
 4. Sun Yanbin, Li Mohan, Su Shen, et al. Secure Data Sharing Framework via Hierarchical Greedy Embedding in Darknets. Mobile Networks and Applications (2019): 1-9.
 5. Tian Zhihong, Li Mohan, Qiu Meikang, Sun Yanbin, Su Shen. Block-DEF: A Secure Digital Evidence Framework using Blockchain. Information Sciences, 2019: 151-165.
 6. Li Mohan, Li Jianzhong. A minimized-rule based approach for improving data currency. Journal of Combinatorial Optimization, 2016, 32(3): 812-841. 
